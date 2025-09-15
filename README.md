@@ -4,7 +4,7 @@
 
 ## Live site
 
-- **Vercal**: https://ecommerce-product-page-main-kf72f909z.vercel.app
+- **Vercal**: https://social-links-profile-main-cyan-chi.vercel.app/
 
 ## PC 💻
 
