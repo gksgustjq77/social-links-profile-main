@@ -23,4 +23,3 @@
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **상태 관리**: useState
 - **툴링**: Vite, ESLint, Prettier
-- **전역관리**: jotai
